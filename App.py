@@ -30,7 +30,7 @@ class MorseTranslatorApp:
         self.start_frame = ttk.Frame(window)
         self.start_frame.grid()
         try:
-            self.image = tk.PhotoImage(file="assets/morse_code_logo (1).png")
+            self.image = tk.PhotoImage(file="morse_code_logo (1).png")
         except tk.TclError:
             self.show_error(data.no_image_error_text)
 
