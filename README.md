@@ -13,7 +13,7 @@ The app features an intuitive GUI built with Tkinter and includes options for co
   1. app.py: Main script for the Morse Translator application.
   2. data.py: Contains mappings and error messages for translations.
   3. requirements.txt: Dependencies required to run the app.
-  4. morse_code_logo.png: Logo used in the application (uploaded directly, not in an assets folder).
+  4. morse_code_logo.png: Logo used in the application.
 
 # How to Run the App
   1. Clone the repository
@@ -33,8 +33,7 @@ The app features an intuitive GUI built with Tkinter and includes options for co
      python app.py  
 
 # Important Notes
-  1. The morse_code_logo.png file is stored in the root directory (not in an assets folder as in the project). Adjust the file path in app.py if necessary.
-  2. Ensure you have Python 3.8+ and Tkinter installed for the app to run smoothly.
+  Ensure you have Python 3.8+ and Tkinter installed for the app to run smoothly.
 
 
       
