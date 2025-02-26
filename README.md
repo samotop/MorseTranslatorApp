@@ -30,7 +30,10 @@ The app features an intuitive GUI built with Tkinter and includes options for co
   4. Launch the App:
 
      ```bash
-     python app.py  
+     python app.py
+       
+## Demo Video
+Watch the app in action on YouTube: [Tic Tac Toe Demo](https://youtu.be/69Z9YVxV6zQ)
 
 # Important Notes
   Ensure you have Python 3.8+ and Tkinter installed for the app to run smoothly.
